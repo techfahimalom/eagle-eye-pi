@@ -1,0 +1,20 @@
+# Eagle Eye P.I.
+
+> Eagle Eye P.I. is a licensed private investigation and executive protection agency headquartered in East Orange, New Jersey, serving all of New Jersey and New York. Led by Francesco, a retired U.S. Department of Justice and Department of Homeland Security (DHS) ICE veteran with over 25 years of federal law enforcement experience.
+
+## Core Services
+- Covert Physical & Mobile Surveillance
+- Infidelity & Matrimonial Investigation
+- TSCM Digital Sweeps & Bug Detection (Andre Kit)
+- Executive Protection & Armed Chauffeur Services
+- Insurance & Workers' Compensation Fraud Investigation
+- Attorney & Litigation Support (Witness Locates, Statements)
+- Criminal Background Checks & OSINT Vetting
+- Missing Person & Skip Tracing
+- Fleet & Asset GPS Tracking
+- Process Serving & Court Record Retrieval
+
+## Jurisdiction & Contact
+- Headquarters: East Orange, NJ (Serving Essex, Bergen, Hudson, Union, Passaic, and all 21 NJ counties, plus all 5 boroughs of NYC and Long Island).
+- Direct Phone: 201-912-9549
+- Website: https://techfahimalom.github.io/eagle-eye-pi/
