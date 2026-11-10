@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Site-Name: Eagle Eye P.I.
+Description: Licensed private investigation, surveillance, TSCM digital sweeps, and executive protection across New Jersey and New York, led by a 25-year federal veteran.
+Contact: 201-912-9549
